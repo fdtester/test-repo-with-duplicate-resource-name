@@ -1,0 +1,1 @@
+# test-repo-with-duplicate-resource-name
