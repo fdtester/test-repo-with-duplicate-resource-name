@@ -1,1 +1,2 @@
-# test-repo-with-duplicate-resource-name
+# Test repo with duplicate resource name
+TestAction: duplicate-resource
